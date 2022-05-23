@@ -1,6 +1,6 @@
 package test;
 // IF3001 Algoritmos y Estructuras de Datos
-// Lab #2 Listas Enlazadas
+// Lab #3 Pilas y colas
 // Estudiantes: 
 //Joseph Cantarero Alvarado C11614
 //Raul Miranda Vargas C14813
